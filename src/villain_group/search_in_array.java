@@ -14,7 +14,7 @@ import java.util.Scanner;
 public class search_in_array {
     public static void main (String[] args){
         
-        int [][]search = new int[4][30];
+       
         int loop_i, loop_j, loop_k, loop_z;
         
         Scanner scan = new Scanner(System.in);
