@@ -19,6 +19,6 @@ public class Counter {
 	public void decrement() {
 		count--;
 	}
-
+		komang tampan tapi boong
 	
 }
